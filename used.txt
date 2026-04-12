@@ -1,0 +1,63 @@
+# Design System Theme
+
+ 
+
+## Overview
+
+This document outlines the core visual theme for our design system, reflecting a modern and purposeful aesthetic.
+
+ 
+
+## Color Palette
+
+Our color palette is meticulously crafted to ensure accessibility, brand recognition, and a harmonious user experience.
+
+The primary mode for this theme is `dark`.
+
+ 
+
+### Brand Colors
+
+- **Primary Color:** `#5DBA3E` - A vibrant green, symbolizing growth and vitality, used for key interactive elements and calls to action.
+
+- **Secondary Color:** `#795548` - A warm brown, providing a grounded contrast and supporting secondary UI elements.
+
+- **Tertiary Color:** `#828282` - A neutral grey, acting as an accent for highlights and decorative details.
+
+- **Neutral Color:** `#1E1E1E` - A deep, dark tone forming the base for backgrounds and surfaces.
+
+ 
+
+## Typography
+
+Our typography system is designed for readability and hierarchy, ensuring a clear and engaging content presentation.
+
+ 
+
+### Font Families
+
+All textual elements, including headlines, body text, and labels, consistently use the `spaceGrotesk` font, providing a cohesive and modern typographic voice throughout the interface.
+
+ 
+
+## Shape and Form
+
+The geometric properties of our UI elements contribute significantly to the overall feel and recognition of the brand.
+
+ 
+
+### Roundedness
+
+UI elements feature sharp, angular corners (`0`). This choice provides a modern, precise, and confident aesthetic, creating a distinct visual identity that emphasizes clarity and structure.
+
+ 
+
+## Spacing
+
+Our spacing system is built on a consistent scale, promoting visual balance and ease of comprehension across all layouts.
+
+ 
+
+### Density
+
+The spacing across our UI is `normal` (`2`), providing a balanced amount of whitespace that is comfortable for reading and interaction without feeling overly dense or sparse. This offers a good balance between information density and visual breathing room.

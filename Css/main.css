@@ -1,0 +1,31 @@
+:root {
+  --primary-color: #5dba3e;
+  --secondary-color: #795548;
+  --tertiary-color: #828282;
+  --netural-color: #1e1e1e;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Navbar */
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+/* left-side */
+nav .left-side .left-nav {
+  display: flex;
+  gap: 10px;
+}
+nav .left-side .left-nav li {
+  list-style: none;
+}
+/* right-side */
+.right-side .right-nav .pfp {
+  width: 32px;
+  height: 32px;
+  background-color: blue;
+  border: 2px solid #404a3a;
+}
